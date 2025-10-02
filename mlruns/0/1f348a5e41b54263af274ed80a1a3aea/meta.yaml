@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/conta/anaconda_projects/DATAOPS/UNIDADE%203/projetoUmAula/mlruns/0/1f348a5e41b54263af274ed80a1a3aea/artifacts
+end_time: 1759370723809
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f348a5e41b54263af274ed80a1a3aea
+run_name: experiment_mlops_ead
+run_uuid: 1f348a5e41b54263af274ed80a1a3aea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759370706570
+status: 3
+tags: []
+user_id: conta
