@@ -62,9 +62,9 @@ def create_model(X):
     return model
 
 def config_mlflow():
-    os.environ['MLFLOW_TRACKING_USERNAME'] = 'renansantosmendes'
-    os.environ['MLFLOW_TRACKING_PASSWORD'] = '6d730ef4a90b1caf28fbb01e5748f0874fda6077'
-    mlflow.set_tracking_uri('https://dagshub.com/renansantosmendes/puc_lectures_mlops.mlflow')
+    os.environ['MLFLOW_TRACKING_USERNAME'] = 'JosueCosta2023'
+    os.environ['MLFLOW_TRACKING_PASSWORD'] = '6872c427bf234a7f2f5fab8e325bcac9efcc77c1'
+    mlflow.set_tracking_uri('https://dagshub.com/JosueCosta2023/mlops-ead.mlflow')
 
     mlflow.keras.autolog(log_models=True,
                          log_input_examples=True,
